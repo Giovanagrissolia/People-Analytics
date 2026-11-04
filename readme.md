@@ -2,7 +2,7 @@
 
 Análise em Power BI de contratações, demissões, turnover, absenteísmo e horas extras.
 
-![Visão geral do relatório](caminho/para/imagem-visao-geral.png)
+![Visão geral do relatório](imagem/gif.gif)
 
 🔗 [Abrir o relatório no Power BI](URL_DO_RELATORIO) · [Medidas DAX](caminho/para/medidas-dax) 
 
