@@ -1,7 +1,7 @@
 # A empresa está conseguindo reter as pessoas que contrata?
 
 Análise em Power BI de contratações, demissões, turnover, absenteísmo e horas extras.
-![Demonstração do relatório](Image/gif.gif)
+![Demonstração do relatório](Imagem/gif.gif)
 
 
 🔗 [Abrir o relatório no Power BI](URL_DO_RELATORIO) · [Medidas DAX](caminho/para/medidas-dax) 
