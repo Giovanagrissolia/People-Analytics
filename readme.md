@@ -32,7 +32,7 @@ Entraram mais pessoas do que saíram (**860 contratações contra 611 demissões
    ![Página de capa](Imagem/1.Capa.png)
 
 3. **Visão geral:** KPIs, turnover, faixa etária, gênero, cargo e evolução anual.
-   ![Página de Visão Geral](Imagem/<2.Visão Geral.png>)
+   ![Página de Visão Geral](Imagem/<2.Visão-Geral.png>)
 
 5. **Frequência:** absenteísmo e horas extras por mês e por etnia, faixa etária e gênero.
 
