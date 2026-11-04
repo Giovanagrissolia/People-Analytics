@@ -29,12 +29,6 @@ Entraram mais pessoas do que saíram (**860 contratações contra 611 demissões
 - As saídas de 2018 a 2020 podem incluir quem entrou em 2016 e 2017.
 - Os valores altos em grupos pequenos podem refletir poucas pessoas, não um padrão.
 
-## Limitações
-
-- A frequência cobre só seis meses (fev a jul/2020).
-- Os recortes estão em percentual, sem o número de pessoas por grupo.
-- Fonte dos dados: **[PREENCHER]**.
-
 ## Páginas do relatório
 
 1. **Capa:** navegação entre as páginas.
