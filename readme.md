@@ -24,7 +24,7 @@ Entraram mais pessoas do que saíram (**860 contratações contra 611 demissões
 2. **As contratações são concentradas.** 46,7% são de pessoas de 35 a 44 anos, e os cinco cargos principais (Operador, Gestor, Aprendiz, Assistente e Auxiliar) somam 47,6%. 67,21% são homens.
 3. **Horas extras são o maior custo de frequência.** R$ 269.110 (5,65%) contra R$ 34.001 (0,71%) de absenteísmo. Em maio de 2020 as horas extras caíram 60% desde março (7,93% para 3,17%), e o absenteísmo chegou a 0,91% em julho, o maior do período.
 4. **O absenteísmo varia entre grupos.** É maior até 34 anos (1,39% e 1,19%) do que acima de 55 (0,43%), e maior no grupo indígena (3,07%) do que no branco (0,63%).
-5. 
+   
 
 ## Páginas do relatório
 
