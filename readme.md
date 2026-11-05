@@ -42,7 +42,7 @@ Entraram mais pessoas do que saíram (**860 contratações contra 611 demissões
 
 - [`Image/`](Imagem/): prints das páginas do relatório e GIF de demonstração
 - [`Medidas BI.md`](<Medidas BI.md>): medidas em DAX
-- Relatório online: [Power BI](https://app.powerbi.com/view?r=eyJrIjoiYmE2MTJhN2UtMTgzNC00NjczLTg4ZTgtYjcxZTUzZDBjNDMxIiwidCI6IjU0NDllMjE1LWNjYTAtNGZjMS1hMzBlLWM1MWNmNzkyZWMzNCJ9)
+- Relatório online: [Power BI](https://app.powerbi.com/view?r=eyJrIjoiYTYxYWJkMzktYTE0Ny00MzgzLTg1NDctNDg1YjE5MjUwOTRhIiwidCI6IjU0NDllMjE1LWNjYTAtNGZjMS1hMzBlLWM1MWNmNzkyZWMzNCJ9)
 
 ## Ferramentas
 Power BI, DAX, Figma (design)
