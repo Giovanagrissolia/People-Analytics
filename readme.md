@@ -38,18 +38,14 @@ Entraram mais pessoas do que saíram (**860 contratações contra 611 demissões
 
     ![Página de frequência](Imagem/3.Frequência.png)
 
-## Modelo de dados
+   ## Estrutura do repositório
 
-Modelo em estrela: `fContrato` (fato), `dFuncionario` e `dCalendario` (dimensões) e uma tabela de medidas.
+- [`Image/`](Imagem/): prints das páginas do relatório e GIF de demonstração
+- [`Medidas BI/`](<Medidas BI>/): medidas e colunas calculadas em DAX
+- Relatório online: [Power BI](https://app.powerbi.com/view?r=eyJrIjoiYmE2MTJhN2UtMTgzNC00NjczLTg4ZTgtYjcxZTUzZDBjNDMxIiwidCI6IjU0NDllMjE1LWNjYTAtNGZjMS1hMzBlLWM1MWNmNzkyZWMzNCJ9)
 
 ## Ferramentas
-
-Power BI (DAX), SQL *(remova se não usou)*, Figma (layout).
+Power BI, DAX, Figma (design)
 
 ## Sobre o projeto
-
-Parti de uma base usada em curso **[PREENCHER: nome do curso]**. O layout, as análises e a narrativa desta versão são de autoria própria *(ajuste conforme o que você fez)*.
-
-## Autora
-
-**[Seu nome]** · [LinkedIn](URL_DO_LINKEDIN)
+Parti de uma base usada em curso **[Xperiun: Análise de dados]**. O layout, as análises e a narrativa desta versão são de autoria própria.
