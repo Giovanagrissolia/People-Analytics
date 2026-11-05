@@ -4,7 +4,7 @@ Análise em Power BI de contratações, demissões, turnover, absenteísmo e hor
 ![Demonstração do relatório](Imagem/gif.gif)
 
 
-🔗 [Abrir o relatório no Power BI](https://app.powerbi.com/view?r=eyJrIjoiYTYxYWJkMzktYTE0Ny00MzgzLTg1NDctNDg1YjE5MjUwOTRhIiwidCI6IjU0NDllMjE1LWNjYTAtNGZjMS1hMzBlLWM1MWNmNzkyZWMzNCJ9" frameborder="0" allowFullScreen="true"></iframe>) · [Medidas DAX](<Medidas BI.md>)
+🔗 [Abrir o relatório no Power BI](https://app.powerbi.com/view?r=eyJrIjoiYTYxYWJkMzktYTE0Ny00MzgzLTg1NDctNDg1YjE5MjUwOTRhIiwidCI6IjU0NDllMjE1LWNjYTAtNGZjMS1hMzBlLWM1MWNmNzkyZWMzNCJ9) · [Medidas DAX](<Medidas BI.md>)
 
 ---
 
